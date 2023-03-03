@@ -26,5 +26,5 @@ features:
     details: Github Actions 做自动化部署发布
 
 # 首页的页脚
-footer: MIT Licensed | Copyright © 2021 菜猫子neko
+footer: 
 ---
